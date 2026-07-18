@@ -9,7 +9,6 @@ void setup() {
 
 // The loop function runs over and over again forever
 void loop() {
-  Serial.println("User: Aryan Gupta");
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   Serial.println("LED is ON");       // Print status to Serial Monitor
   delay(1000);                       // wait for a second
