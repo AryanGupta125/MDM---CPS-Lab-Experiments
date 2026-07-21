@@ -6,7 +6,7 @@
 
 ### Expt 1 Output (NANO33 Blink)
 
-https://github.com/user-attachments/assets/74067145-f055-44e4-a649-0d24c0641ca7
+https://github.com/user-attachments/assets/5e65c1de-f2a3-4e3a-8395-0d5ed9d253e8
 
   </td>
 
@@ -92,9 +92,9 @@ https://github.com/user-attachments/assets/8dbf98ab-ceb0-4b0c-9f00-036dbff4feb6
 
   <td align="center" width="50%">
 
-### Expt 10 Output ()
+### Expt 10 Output (I2C LCD)
 
-
+https://github.com/user-attachments/assets/8b0fafde-8e76-425f-a071-4c250805e0ef
 
   </td>
   </tr>
@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/8dbf98ab-ceb0-4b0c-9f00-036dbff4feb6
 
 ### Expt 11 Output (Gesture Sensor)
 
-https://github.com/user-attachments/assets/363543f7-bd0f-4832-af46-d9e57ed92276
+https://github.com/user-attachments/assets/17762c5b-96e7-491a-b0fc-086573aaca74
 
   </td>
 
@@ -172,9 +172,9 @@ https://github.com/user-attachments/assets/a545a705-4a36-47d5-a2cc-93871e344b87
 
   <td align="center" width="50%">
 
-### Expt 18 Output ()
+### Expt 18 Output (Embedded Code)
 
-
+https://github.com/user-attachments/assets/f2791c3b-f1b1-45b0-8ccf-5522a4fdbb73
 
   </td>
   </tr>
@@ -192,9 +192,9 @@ https://github.com/user-attachments/assets/4013b648-9c73-4e9c-873b-aa3d769401f8
 
   <td align="center" width="50%">
 
-### Expt 20 Output ()
+### Expt 20 Output (BLE Phone RGB)
 
-
+https://github.com/user-attachments/assets/eb30bc09-c254-45ab-8c05-16674ad38ce8
 
   </td>
   </tr>
